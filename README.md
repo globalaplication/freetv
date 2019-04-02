@@ -1,2 +1,1 @@
-# freetv-
 Özgür Yayın
